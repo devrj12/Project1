@@ -53,8 +53,8 @@ plt.plot(xx)
 
 
 # On the second part, calculating breath rate ( which I take as respiratory rate as well as is mentioned in the 
-# literature) inolves multiple steps. And there are many (hundreds ?) appraoches in the literature discussed on 
-# this. So, instead of me trying to write a new algorithm myself, I would seek to change an exisitng algorithm
+# literature) inolves multiple steps. And there are many (hundreds ?) approaches in the literature discussed on 
+# this. So, instead of trying to write a new algorithm myself, I would seek to change an exisitng algorithm
 # to suit my problem.
 
 # The following link has one such algorithm :
