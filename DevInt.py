@@ -6,7 +6,7 @@
 
 from scipy.io import loadmat
 import os
-os.chdir("/home/dev/Desktop/Mindmics/training2017/")
+os.chdir("/home/dev/Desktop/training2017/")
 
 # load the ECG file
 path   = os.getcwd()
